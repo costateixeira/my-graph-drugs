@@ -44,7 +44,7 @@ const nodes = [
   },
   {id: "MedicationKnowledge/34",
   size: 150,
-  label: "Diclofenac Sandoz 50 mg Comprimidos revestidos\n ProductTye: *Medicinal Product (IDMP)*\n status: Active\n Amount: 50 mg\n Dose Form: Comprimido revestido",
+  label: "**Diclofenac Sandoz 50 mg Comprimidos revestidos**\n ProductTye: *Medicinal Product (IDMP)*\n status: Active\n Amount: 50 mg\n Dose Form: Comprimido revestido",
   color: "#DAF7A6",
   shape: "box",
   font: { multi: "md", face: "monospace", align: "left" }},

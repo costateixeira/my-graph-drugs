@@ -44,7 +44,7 @@ const nodes = [
   },
   {id: "MedicationKnowledge/34",
   size: 150,
-label: "ProductTye: Medicinal Product (IDMP)\n status: Active\n synonym: Diclofenac Sandoz 50 mg Comprimidos revestidos\n Amount: 50 mg\n Dose Form: Comprimido revestido\n ",
+label: "ProductTye: **Medicinal Product (IDMP)**\n status: Active\n synonym: Diclofenac Sandoz 50 mg Comprimidos revestidos\n Amount: 50 mg\n Dose Form: Comprimido revestido",
 color: "#DAF7A6",
 shape: "box",
 font: { face: "monospace", align: "left" }},

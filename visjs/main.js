@@ -44,7 +44,7 @@ const nodes = [
   },
   {id: "MedicationKnowledge/34",
   size: 150,
-label: "ProductTye: medproduct\n  status: active\n synonym: Diclofenac Sandoz 50 mg Comprimidos revestidos 50 mg Comprimido revestido\n productType: MEDPROD\n productType_0_coding_0_system: http://terminology.hl7.org/CodeSystem/medicineCS\n amount: 50\n amount_unit: mg\n doseForm: 38.0\n doseForm_coding_0_system: http://infarmed.pt/pharm_Form\n doseForm_coding_0_display: Comprimido revestido\n ",
+label: "ProductTye: Medicinal Product (IDMP)\n status: Active\n synonym: Diclofenac Sandoz 50 mg Comprimidos revestidos\n Amount: 50 mg\n Dose Form: Comprimido revestido\n ",
 color: "#DAF7A6",
 shape: "box",
 font: { face: "monospace", align: "left" }},
